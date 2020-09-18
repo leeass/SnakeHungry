@@ -1,0 +1,92 @@
+{
+    "paths": {},
+    "uuids": [
+        "02WgsUK6VF5bHncvU8Z8J6",
+        "14SjFrsIBKearhQY0BDh/s",
+        "1caTtQ/6ZBY74nG2oYPxs2",
+        "1c6NiEC1ZHGboQTgXzDjf7",
+        "28EQJ7EohJR7A/05x++TBn",
+        "36NxR6e7BEyZozOSw4xhkF",
+        "52QfmBR9BJjLFCQFfm4eRk",
+        "66u0ip+xRHoIzokcGZYCnB",
+        "8aJj+3cmRJIrWelUp5xouF",
+        "8bAW1GGCxFQoUavOCIpEQ1",
+        "90+zotOGxL2pZESE3e3NvT",
+        "a6avUSFuhJIYvDEKudueZu",
+        "b2ITcEtaRLm5GAzqr+mOtT",
+        "b5ZVs9fUdB0JR+aIlXmvlp",
+        "bf+TXfDzZGNIgEhTUd3Fo+",
+        "d4LMfiErJEJLSMvWs1kiAJ",
+        "d9MF0PU1FMMLjA+twAkLuG",
+        "e5H46idNxMWrIT6TkJ+6m/",
+        "ecpdLyjvZBwrvm+cedCcQy",
+        "fauNNbKERNd6v3gCIfSOOv"
+    ],
+    "scenes": {
+        "db://assets/Scene/GameScene.fire": "d9MF0PU1FMMLjA+twAkLuG"
+    },
+    "redirect": [
+        "ecpdLyjvZBwrvm+cedCcQy",
+        0
+    ],
+    "deps": [
+        "internal"
+    ],
+    "packs": {
+        "067ec2339": [
+            "02WgsUK6VF5bHncvU8Z8J6",
+            "1c6NiEC1ZHGboQTgXzDjf7",
+            "36NxR6e7BEyZozOSw4xhkF",
+            "52QfmBR9BJjLFCQFfm4eRk",
+            "66u0ip+xRHoIzokcGZYCnB",
+            "b2ITcEtaRLm5GAzqr+mOtT",
+            "b5ZVs9fUdB0JR+aIlXmvlp",
+            "d4LMfiErJEJLSMvWs1kiAJ"
+        ],
+        "0953f41e8": [
+            "14SjFrsIBKearhQY0BDh/s",
+            "1caTtQ/6ZBY74nG2oYPxs2",
+            "28EQJ7EohJR7A/05x++TBn",
+            "8aJj+3cmRJIrWelUp5xouF",
+            "8bAW1GGCxFQoUavOCIpEQ1",
+            "90+zotOGxL2pZESE3e3NvT",
+            "a6avUSFuhJIYvDEKudueZu",
+            "bf+TXfDzZGNIgEhTUd3Fo+",
+            "d9MF0PU1FMMLjA+twAkLuG",
+            "e5H46idNxMWrIT6TkJ+6m/",
+            "fauNNbKERNd6v3gCIfSOOv"
+        ]
+    },
+    "name": "main",
+    "importBase": "import",
+    "nativeBase": "native",
+    "debug": true,
+    "isZip": false,
+    "encrypted": false,
+    "versions": {
+        "import": [
+            "067ec2339",
+            "d965d",
+            "0953f41e8",
+            "a7ae6"
+        ],
+        "native": [
+            "02WgsUK6VF5bHncvU8Z8J6",
+            "56bc2",
+            "1c6NiEC1ZHGboQTgXzDjf7",
+            "3c282",
+            "36NxR6e7BEyZozOSw4xhkF",
+            "487a1",
+            "52QfmBR9BJjLFCQFfm4eRk",
+            "6abd1",
+            "66u0ip+xRHoIzokcGZYCnB",
+            "10582",
+            "b2ITcEtaRLm5GAzqr+mOtT",
+            "cc7cb",
+            "b5ZVs9fUdB0JR+aIlXmvlp",
+            "06628",
+            "d4LMfiErJEJLSMvWs1kiAJ",
+            "071d8"
+        ]
+    }
+}
